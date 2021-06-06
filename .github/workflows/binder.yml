@@ -17,4 +17,3 @@ jobs:
         DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
         BINDER_CACHE: true
         PUBLIC_REGISTRY_CHECK: true
-        LATEST_TAG_OFF: yeah

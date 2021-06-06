@@ -21,7 +21,7 @@ No installation/registration/account required.
 
 Alternatively
 
-1. `podman run --rm -p 8888:8888 docker.io/learningbydoingdocker/causality-tutorial-exercises`,
+1. `podman run --rm -p 8888:8888 docker.io/learningbydoingdocker/causality-tutorial-exercises`, \
 follow the shown link to open the notebook in your browser
 2. clone repository, install [./requirements.txt](./requirements.txt),
 and run jupyter notebook
@@ -38,7 +38,7 @@ No installation/registration/account required.
 
 Alternatively
 
-1. `podman run --rm -p 8888:8888 docker.io/learningbydoingdocker/causality-tutorial-exercises`,
+1. `podman run --rm -p 8888:8888 docker.io/learningbydoingdocker/causality-tutorial-exercises`, \
 follow the shown link to open the notebook in your browser
 2. clone repository, install packages as per [./install.R](./install.R),
 and run jupyter notebook
