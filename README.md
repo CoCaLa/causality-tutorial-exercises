@@ -19,7 +19,7 @@ __Launch a
 instance to work on the causality exercises in your browser.__ \
 No installation/registration/account required.
 
-Alternatively
+Alternatively, use one of the following options:
 
 1. `podman run --rm -p 8888:8888 docker.io/learningbydoingdocker/causality-tutorial-exercises`, \
 follow the shown link to open the notebook in your browser
@@ -36,7 +36,7 @@ __Launch a
 instance to work on the causality exercises in your browser.__ \
 No installation/registration/account required.
 
-Alternatively
+Alternatively, use one of the following options:
 
 1. `podman run --rm -p 8888:8888 docker.io/learningbydoingdocker/causality-tutorial-exercises`, \
 follow the shown link to open the notebook in your browser
