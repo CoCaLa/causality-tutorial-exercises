@@ -1,2 +1,7 @@
+install.packages("gam")
+install.packages("DoubleML")
+install.packages("WeightIt")
+install.packages("MatchIt")
+install.packages("ranger")
 install.packages('dHSIC')
 install.packages('InvariantCausalPrediction')
