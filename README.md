@@ -41,6 +41,6 @@ Alternatively, use one of the following options:
 1. `podman run --rm -p 8888:8888 docker.io/learningbydoingdocker/causality-tutorial-exercises`, \
 follow the shown link to open the notebook in your browser
 2. clone repository, install packages as per [./install.R](./install.R),
-and run jupyter notebook
+and run jupyter notebook 
 [./R/Causality_Tutorial_Exercises.ipynb](./R/Causality_Tutorial_Exercises.ipynb)
 3. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sweichwald/causality-tutorial-exercises/blob/master/R/Causality_Tutorial_Exercises.ipynb)
